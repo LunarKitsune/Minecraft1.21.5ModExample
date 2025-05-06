@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:fmlloader:1.21.5-55.0.12" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="fmlloader" version="1.21.5-55.0.12" baseVersion="1.21.5-55.0.12" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlloader/1.21.5-55.0.12/9ca12514f62b32f3f10ef0d6f71b11f8cd62428f/fmlloader-1.21.5-55.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlloader/1.21.5-55.0.12/adc9fa52963e5f90a016a0051093d067592d7311/fmlloader-1.21.5-55.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

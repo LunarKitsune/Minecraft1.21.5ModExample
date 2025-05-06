@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:lowcodelanguage:1.21.5-55.0.12" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="lowcodelanguage" version="1.21.5-55.0.12" baseVersion="1.21.5-55.0.12" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/lowcodelanguage/1.21.5-55.0.12/76e335c408fb05c6204fde83fcfb8489b8b28372/lowcodelanguage-1.21.5-55.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/lowcodelanguage/1.21.5-55.0.12/b7c8c33e476e9799061d31e97fca95c35b1866c8/lowcodelanguage-1.21.5-55.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
